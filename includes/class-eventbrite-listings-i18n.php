@@ -21,7 +21,7 @@
  * @since      1.0.0
  * @package    Eventbrite_Listings
  * @subpackage Eventbrite_Listings/includes
- * @author     Dan Russell <dan.g.russell@gmail.com>
+ * @author     Dan Russell <4387475+dangrussell@users.noreply.github.com>
  */
 class Eventbrite_Listings_i18n {
 

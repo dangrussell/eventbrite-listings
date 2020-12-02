@@ -17,7 +17,7 @@
  *
  * @package    Eventbrite_Listings
  * @subpackage Eventbrite_Listings/admin
- * @author     Dan Russell <dan.g.russell@gmail.com>
+ * @author     Dan Russell <4387475+dangrussell@users.noreply.github.com>
  */
 class Eventbrite_Listings_Admin {
 
