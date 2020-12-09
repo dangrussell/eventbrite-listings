@@ -444,7 +444,7 @@ class Eventbrite_Listings_Public {
 			$json['@type']    = 'Event';
 
 			$json['name']        = $event['name']['text'];
-			$json['description'] = format_description( $event['description']['text'] );
+			$json['description'] = format_description( $event['summary'] );
 			$json['startDate']   = $event['start']['utc'];
 			$json['endDate']     = $event['end']['utc'];
 			if ( true === $event['online_event'] ) {

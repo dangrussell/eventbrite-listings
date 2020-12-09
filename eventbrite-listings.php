@@ -14,7 +14,7 @@
  * @wordpress-plugin
  * Plugin Name:       Eventbrite Listings
  * Plugin URI:        https://github.com/dangrussell/eventbrite-listings
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Display events from the Eventbrite API
  * Version:           1.0.0
  * Author:            Dan Russell
  * Author URI:        https://github.com/dangrussell/
